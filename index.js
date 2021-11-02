@@ -20,13 +20,6 @@ Do the following:
    HINT: no function required
 */
 
-const votingAge = age;
-if(age >= 18){
-  console.log('true');
-}
-
-console.log('task 1a:', votingAge(20));
-
 
 /*
 Task 1b - Values
